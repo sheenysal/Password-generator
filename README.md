@@ -11,4 +11,3 @@ A simple program to generate strong random passwords.
 2. Enter the desired password length.
 3. The program will generate and display a strong random password.
 
-## Example:
